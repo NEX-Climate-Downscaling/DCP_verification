@@ -1,3 +1,4 @@
 # Verification_codes
 
-Home to verification codes for DCP30 and Hawaii
+Home to verification codes for DCP30
+
